@@ -1,0 +1,156 @@
+*{
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 1100px;
+    margin: 30px auto;
+}
+
+.block {
+    margin: 20px 0 50px 220px;
+}
+.sitename {
+    margin-bottom: 10px;
+    font: 20px Arial;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.navbar-menu {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    text-align: center;
+    
+  
+}
+.li1 {
+    word-spacing: 115px;
+    width: 115px;
+    padding-top: 27px;
+    list-style-type: none;
+ 
+}
+
+nav {
+    display: flex;
+    width: 700px;
+    height: 70px;
+    background-color: rgb(240, 156, 60);
+    padding-top: 15px;
+}
+
+.bee {
+    width: 700px;
+    margin-left: 220px;
+}
+
+.container {
+    display: flex;
+}
+.left {
+    margin-left: 220px; 
+    text-align: justify;
+    width: 250px;
+    
+}
+
+main{
+   margin-left: 50px;
+    width: 400px;
+}
+
+.ul2 {
+   margin-left: -23px;
+
+}
+
+footer{
+    padding: 30px 0;
+    border-top: 1px solid rgb(240, 156, 60);
+    width: 750px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 180px;
+}
+
+nav a{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font: 15px Arial;
+    
+}
+
+nav a:hover, nav a :active {
+    color: rgb(207, 80, 6);
+    text-decoration: underline;
+}
+
+main h1 {
+    font: 20px "Times New Roman";
+}
+
+main p{
+    margin: 10px 0;
+    text-align: justify;
+    font: 15px Arial;
+}
+footer a{
+    padding: 10px;
+    color: rgb(255, 203, 92);
+    text-decoration: underline;
+    font: 15px Arial;
+    
+}
+
+footer a:hover, nav a :active {
+    color: rgb(207, 80, 6);
+    text-decoration: underline; 
+}
+
+li {
+    list-style-image: url(img/li.gif);
+}
+
+ul a{
+    padding: 10px;
+    color: rgb(255, 203, 92);
+    text-decoration: underline;
+    font: 15px Arial;
+    
+}
+
+ul a:hover, nav a :active {
+    color: rgb(207, 80, 6);
+    text-decoration: underline; 
+}
+
+main a{
+    padding: 10px;
+    color: rgb(255, 203, 92);
+    text-decoration: underline;
+    font: 15px Arial;
+    
+}
+
+main a:hover, nav a :active {
+    color: rgb(207, 80, 6);
+    text-decoration: underline; 
+}
+
+.p1 {
+    margin-top: -15px ;
+    margin-bottom: 30px;
+    font-size: 12px;
+
+}
+
+button {
+    background-color: white;
+    color: rgb(255, 203, 92) ;
+    border: 1px solid rgb(207, 80, 6);
+    padding: 5px 10px;
+    margin-left: 300px;
+}
+
